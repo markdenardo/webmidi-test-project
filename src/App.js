@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import WebMidiComponent from './WebMidiComponent'
 import './App.css';
 
