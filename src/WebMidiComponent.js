@@ -58,8 +58,8 @@ WebMidi.enable(function (err) {
   console.log(WebMidi.time);
 
   // Retrieving an output port/device using its id, name or index
-  var output = WebMidi.getOutputById("1305586338");
-  output = WebMidi.getOutputByName("Elektron Digitakt");
+  var output = WebMidi.getOutputById("1387091954");
+  output = WebMidi.getOutputByName("OP-1 Midi Device");
   output = WebMidi.outputs[0];
 
   // Play a note on all channels of the selected output
